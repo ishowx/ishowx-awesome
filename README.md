@@ -16,8 +16,18 @@
 - [Google Cast](https://github.com/googlecast)
 - [AndroidInstantVideo](https://github.com/ChillingVan/AndroidInstantVideo)
 - [ShowTimeVideoLive](https://github.com/myiosemail/ShowTimeVideoLive)
+- [showdown: Markdown to HTML to Markdown converter written in Javascript](https://github.com/showdownjs/showdown)
+- [ShowDoc: A tool greatly applicable for an IT team to share documents online](https://github.com/star7th/showdoc)
+- [Shower: HTML presentation engine](https://github.com/shower/shower)
+- [Pokemon-Showdown: Pokémon battle simulator](https://github.com/Zarel/Pokemon-Showdown)
+- [showoff: Don't just present; interact with your audience!](https://github.com/puppetlabs/showoff)
+- [SkeletonView: An elegant way to show users that something is happening and also prepare them to which contents he is waiting](https://github.com/Juanpe/SkeletonView)
+- [FSPagerView: An elegant Screen Slide Library](https://github.com/WenchaoD/FSPagerView)
+- [GDPerformanceView-Swift: Shows FPS, CPU and memory usage, device model, app and iOS versions](https://github.com/dani-gavrilov/GDPerformanceView-Swift)
+- [Monkey: GitHub third party client for iOS,to show the rank of coders and repositories.](https://github.com/coderyi/Monkey)
 
 ### X
+- [You-Dont-Know-X](https://github.com/ythecombinator/You-Dont-Know-X)
 - [awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers)
 
 ### Appreciate: Do kindly support the project, please! :)
