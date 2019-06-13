@@ -25,6 +25,11 @@
 - [FSPagerView: An elegant Screen Slide Library](https://github.com/WenchaoD/FSPagerView)
 - [GDPerformanceView-Swift: Shows FPS, CPU and memory usage, device model, app and iOS versions](https://github.com/dani-gavrilov/GDPerformanceView-Swift)
 - [Monkey: GitHub third party client for iOS,to show the rank of coders and repositories.](https://github.com/coderyi/Monkey)
+- [please-wait: A simple library to show your users a beautiful splash page while your application loads.](https://github.com/Pathgather/please-wait)
+- [movieapp: Discover Movies and TV shows - React Native](https://github.com/junedomingo/movieapp)
+- [social-feed: JavaScript plugin that shows a user feed from the most popular social networks](https://github.com/pavelk2/social-feed)
+- [jquery-toast-plugin: Highly customizable jquery plugin to show toast messages](https://github.com/kamranahmedse/jquery-toast-plugin)
+- [jquery-lifestream: Show a stream of your online activity with jQuery](https://github.com/christianvuerings/jquery-lifestream)
 
 ### X
 - [You-Dont-Know-X](https://github.com/ythecombinator/You-Dont-Know-X)
