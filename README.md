@@ -19,3 +19,7 @@
 
 ### X
 - [awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers)
+
+### Appreciate: Do kindly support the project, please! :)
+
+> Going forward, the major cost and effort would be validating all the awesome stuff, including infrastructure investment.
