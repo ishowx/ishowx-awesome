@@ -8,7 +8,7 @@
 - _Show for growth, rather than show off._
 
 ### Science
-- _`Show-up` not `Show-off`: [A psychological analysis into the human happiness equation](#TBD)_
+- _`Show-up` not `Show-off`: [A psychological analysis into the human happiness equation](#TBD)_ :eyes: **_TBD_**
 
 ### Technology
 - [presentz: A js library to show synchronized video and slides presentations](https://github.com/ffissore/presentz.js)
