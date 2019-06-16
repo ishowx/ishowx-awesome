@@ -30,6 +30,17 @@
 - [social-feed: JavaScript plugin that shows a user feed from the most popular social networks](https://github.com/pavelk2/social-feed)
 - [jquery-toast-plugin: Highly customizable jquery plugin to show toast messages](https://github.com/kamranahmedse/jquery-toast-plugin)
 - [jquery-lifestream: Show a stream of your online activity with jQuery](https://github.com/christianvuerings/jquery-lifestream)
+- [videoconverter.js: Convert videos in your browser](https://github.com/bgrins/videoconverter.js)
+- [Video.js - open source HTML5 & Flash video player](https://github.com/videojs/video.js)
+- [Chimee: a video player framework aims to bring wonderful experience on browser](https://github.com/Chimeejs/chimee)
+- [Lazy load XT is a jQuery plugin for images, videos and other media](https://github.com/ressio/lazy-load-xt)
+- [flowplayer: The HTML5 video player for the web](https://github.com/flowplayer/flowplayer)
+- [gifshot: JS lib that can create animated GIFs from media streams, videos, or images.](https://github.com/yahoo/gifshot)
+- [DPlayer: Wow, such a lovely HTML5 danmaku video player](https://github.com/MoePlayer/DPlayer)
+- [lib-jitsi-meet: A low-level JS video API for adding a completely custom video experience to web apps.](https://github.com/jitsi/lib-jitsi-meet)
+- [bideo.js: Fullscreen HTML5 Background Video for the Web.](https://github.com/rishabhp/bideo.js)
+- [Seriously.js: A real-time, node-based video effects compositor for the web built with HTML5, Javascript and WebGL](https://github.com/brianchirls/Seriously.js)
+- [clappr: An extensible media player for the web.](https://github.com/clappr/clappr)
 
 ### X
 - [You-Dont-Know-X](https://github.com/ythecombinator/You-Dont-Know-X)
