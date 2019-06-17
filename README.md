@@ -15,6 +15,7 @@
 - [show-videos: 短视频社交软件 ，微信小程序，后台管理系统](https://github.com/RAOE/show-videos)
 - [Google Cast](https://github.com/googlecast)
 - [AndroidInstantVideo](https://github.com/ChillingVan/AndroidInstantVideo)
+- [LanSo Video Editor](https://github.com/LanSoSdk/LanSoEditor_common)
 - [ShowTimeVideoLive](https://github.com/myiosemail/ShowTimeVideoLive)
 - [showdown: Markdown to HTML to Markdown converter written in Javascript](https://github.com/showdownjs/showdown)
 - [ShowDoc: A tool greatly applicable for an IT team to share documents online](https://github.com/star7th/showdoc)
