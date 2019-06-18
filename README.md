@@ -41,7 +41,8 @@
 - [lib-jitsi-meet: A low-level JS video API for adding a completely custom video experience to web apps.](https://github.com/jitsi/lib-jitsi-meet)
 - [bideo.js: Fullscreen HTML5 Background Video for the Web.](https://github.com/rishabhp/bideo.js)
 - [Seriously.js: A real-time, node-based video effects compositor for the web built with HTML5, Javascript and WebGL](https://github.com/brianchirls/Seriously.js)
-- [clappr: An extensible media player for the web.](https://github.com/clappr/clappr)
+- [clappr: An extensible media player for the web.](https://github.com/clappr/)
+- [Tencent Cloud Frontend Engineer Group](https://github.com/CFETeam)
 
 ### X
 - [You-Dont-Know-X](https://github.com/ythecombinator/You-Dont-Know-X)
