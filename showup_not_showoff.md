@@ -1,5 +1,5 @@
 # Show for Growth
-> A psychological analysis into the human happiness equation._
+> A psychological analysis into the human happiness equation.
 
 _"THE MOST PERSONAL IS ALSO THE MOST GENERAL" - Tal Ben-Shahar_
 
