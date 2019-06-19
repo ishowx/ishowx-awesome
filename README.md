@@ -43,6 +43,7 @@
 - [Seriously.js: A real-time, node-based video effects compositor for the web built with HTML5, Javascript and WebGL](https://github.com/brianchirls/Seriously.js)
 - [clappr: An extensible media player for the web.](https://github.com/clappr/)
 - [Tencent Cloud Frontend Engineer Group](https://github.com/CFETeam)
+- [Web-Video-Editor: Web-based video file Editor - Crop video/Adjust time.](https://github.com/shadowmoose/Web-Video-Editor)
 
 ### X
 - [You-Dont-Know-X](https://github.com/ythecombinator/You-Dont-Know-X)
