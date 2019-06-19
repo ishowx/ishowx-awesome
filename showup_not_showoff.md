@@ -1,4 +1,7 @@
 **_"THE MOST PERSONAL IS ALSO THE MOST GENERAL"_** - _Tal Ben-Shahar_
+
+> A psychological analysis into the human happiness equation.
+
 ---
 ### The Happiness Equation
 
