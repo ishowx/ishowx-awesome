@@ -1,6 +1,6 @@
-**_"THE MOST PERSONAL IS ALSO THE MOST GENERAL"_** - _Tal Ben-Shahar_
+_**Show for Growth** - A psychological analysis into the human happiness equation._
 
-> A psychological analysis into the human happiness equation.
+_"THE MOST PERSONAL IS ALSO THE MOST GENERAL" - Tal Ben-Shahar_
 
 ---
 ### The Happiness Equation
