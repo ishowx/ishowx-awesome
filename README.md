@@ -51,4 +51,4 @@
 
 ### Appreciate: Do kindly support the project, please! :)
 
-> Going forward, the major cost and effort would be validating all the awesome stuff, including infrastructure investment.
+> Going forward, the major cost and effort would be validating the listed stuff, including infrastructure investment.
