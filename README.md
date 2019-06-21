@@ -45,7 +45,7 @@
 - [Tencent Cloud Frontend Engineer Group](https://github.com/CFETeam)
 - [Web-Video-Editor: Web-based video file Editor - Crop video/Adjust time.](https://github.com/shadowmoose/Web-Video-Editor)
 - [Online-Video-Editor: API based Online Video Editing using FFMPEG & NodeJs for Backend Editing](https://github.com/bilashcse/Online-Video-Editor)
-- [shotcut: cross-platform (Qt), open-source (GPLv3) video editor](https://github.com/mltframework/shotcut)
+- [Multimedia Processing Framework](https://github.com/mltframework)
 - [OpenShot Video Editor](https://github.com/OpenShot/openshot-qt)
 
 ### X
