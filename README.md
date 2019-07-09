@@ -47,6 +47,7 @@
 - [Online-Video-Editor: API based Online Video Editing using FFMPEG & NodeJs for Backend Editing](https://github.com/bilashcse/Online-Video-Editor)
 - [Multimedia Processing Framework](https://github.com/mltframework)
 - [OpenShot Video Editor](https://github.com/OpenShot/openshot-qt)
+- [Storyboarder: visualize a story as fast you can draw stick figures.](https://github.com/wonderunit/storyboarder)
 
 ### X
 - [You-Dont-Know-X](https://github.com/ythecombinator/You-Dont-Know-X)
